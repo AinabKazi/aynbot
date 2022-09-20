@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648786744 source:c:\users\shank\documents\aynbot\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+
